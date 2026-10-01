@@ -88,6 +88,3 @@ The repository author wrote the macro and prepared this `README.md` **with assis
 
 **Use this software at your own risk.** It is provided *as is*, without warranties or a guarantee of accuracy, fitness for a particular experiment, compatibility, or freedom from errors. Users must independently validate counts, inspect output images, safeguard original data, and decide whether results are suitable for biological interpretation, publication, or other decisions. Neither the author nor contributors accept responsibility for incorrect counts, data loss, or conclusions drawn from use of the software.
 
-## License
-
-No license is implied by publishing a repository. Add a `LICENSE` file only after selecting terms appropriate for you and any applicable institutional policies. Until then, do not assume that others have permission to reuse or redistribute the code.
